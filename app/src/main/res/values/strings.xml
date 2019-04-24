@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="list_of_countries">List Of Countries</string>
+    <string name="name">Name</string>
+    <string name="capital">Capital</string>
+    <string name="add">Add</string>
+    <string name="sort">Sort</string>
+</resources>
